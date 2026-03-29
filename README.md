@@ -29,24 +29,6 @@
 - **Animations**: [Framer Motion](https://www.framer.com/motion/) & [GSAP](https://gsap.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 
-## 🚀 Getting Started
-
-First, clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/adityapandey4621/Kernel_Website.git
-cd Kernel_Website
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the live site.
-
 ## 📁 Key File Structure
 
 - `/app/globals.css` - Global CSS resets, theme variables, and aggressive cursor/text-selection security policies.
