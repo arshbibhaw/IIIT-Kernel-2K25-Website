@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/) (App Router, React 18+)
+- **Framework**: [Next.js](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/) & [GSAP](https://gsap.com/)
@@ -39,7 +39,7 @@
 ## 👨‍💻 Credits
 
 Designed and engineered with ❤️ & ⚡ by:
-- **Aditya Pandey**
 - **Aakarsh Bibhaw**
+- **Aditya Pandey**
 
 © 2026 IIIT Kernel. All rights reserved.
